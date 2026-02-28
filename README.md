@@ -20,3 +20,8 @@
 | UC011 — Emitir Ingresso (Digital/Impresso) | Gera o ingresso após confirmação da compra/reserva. | Cliente / Sistema | Gera identificador/QR → monta ingresso → disponibiliza digital/impresso → registra emissão. |
 | UC012 — Validar Meia-Entrada | Valida elegibilidade e aplica desconto de meia-entrada. | Cliente | Seleciona meia → informa categoria → sistema valida → aplica desconto → atualiza total. |
 | UC013 — Aplicar Benefício Fidelidade | Aplica benefícios do programa de fidelidade na compra/reserva. | Cliente Fidelidade | Identifica cliente → valida regras → calcula benefício → aplica → registra e atualiza total. |
+
+
+## Projeto 1 - Diagrama de Classes ##
+
+<img width="903" height="590" alt="image" src="https://github.com/user-attachments/assets/4c3b386b-aa99-40d9-8e33-d9fb2fc46021" />
