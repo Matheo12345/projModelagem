@@ -1,9 +1,7 @@
 # Proj-modelagem-de-software
 ## Projeto 1 - Diagrama de Casos de Uso ##
 
-<img width="4884" height="3796" alt="image" src="https://github.com/user-attachments/assets/0bc6c3fa-d8e8-44ac-9558-59c7e0037273" />
-
-
+<img width="5552" height="3524" alt="image" src="https://github.com/user-attachments/assets/02e93ea1-9ae6-48c4-a001-8a56a82d7cbc" />
 
 | Identificação | Descrição breve | Ator | Fluxo (resumo) |
 |---|---|---|---|
