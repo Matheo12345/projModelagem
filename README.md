@@ -5,8 +5,6 @@
 
 ## Tabela de Casos de Uso — Sistema de Reservas de Cinema
 
-## Tabela de Casos de Uso — Sistema de Reservas de Cinema
-
 | ID | Nome do UC | Atores | Descrição breve | Fluxo |
 |---|---|---|---|---|
 | UC001 | Manter Sessões e Salas | Administrador | Cadastra e atualiza salas e sessões do cinema. | Acessa admin → cria/edita sala e sessão → valida conflitos (horário/sala) → salva/publica. **Durante o cadastro de sessão, o admin precisa vincular um filme do catálogo (depende de “Manter Filmes”).** |
