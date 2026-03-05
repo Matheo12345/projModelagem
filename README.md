@@ -1,8 +1,15 @@
-Integrantes do grupo
------------------------------------------
+## Integrantes do Grupo
 
-Edson Pedreira de Oliveira Júnior 22.123.038-6
-Henrique Bassan Rebechi 22.223.083-1
-Matheo Campanelli de Aquino Esteves 22.123.045-1
-Diogo santos linna 22.125.069-9
+---
 
+- **Edson Pedreira de Oliveira Júnior**  
+  RA: 22.123.038-6  
+
+- **Henrique Bassan Rebechi**  
+  RA: 22.223.083-1  
+
+- **Matheo Campanelli de Aquino Esteves**  
+  RA: 22.123.045-1  
+
+- **Diogo Santos Linna**  
+  RA: 22.125.069-9  
